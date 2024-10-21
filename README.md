@@ -20,7 +20,7 @@ This notebook requires the following Python packages:
 - **JSON**: For parsing and generating JSON formatted data. Included in Python's standard library.
 - **OS**: For file and directory operations.
 
-## Tests (FILE PATHS VARIES BY OS! MAKE SURE TO PASTE YOUR OWN FOR CODE TO WORK!)
+## Tests (FILE PATHS VARIES BY OS! MAKE SURE TO PASTE FILEPATH ACCORDINGLY FOR CODE TO WORK!)
 
 ### 1. **Test JSON to CSV Conversion (`test_json_to_csv`)**
    - **Purpose**: Converts a JSON file (`Airports.json`) into a CSV file and verifies if the conversion is successful.
