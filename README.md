@@ -45,3 +45,29 @@ This notebook requires the following Python packages:
 ### 6. **Test CSV to SQLite Conversion (`test_save_to_sqlite`)**
    - **Purpose**: Loads a CSV file (`US_Census_Tract_Area_2010.csv`), converts it to an SQLite database, and verifies that the data is written to the SQLite table.
    - **Outcome**: The test checks if the SQLite table is populated and contains records.
+
+# Datasets
+
+Below are the datasets we used in this project along with their respective links:
+
+### 1. **Census Dataset**
+   - **Description**: The Charlottesville Census dataset contains information about demographics within the area.
+   - **Link**: [Census Dataset](https://opendata.charlottesville.org/datasets/63f965c73ddf46429befe1132f7f06e2_15/explore?location=38.040076%2C-78.485000%2C13.45)
+
+### 2. **Market Tax Credit Eligible Area Dataset**
+   - **Description**: This dataset contains information about areas eligible for the New Market Tax Credit in Charlottesville.
+   - **Link**: [Market Tax Credit Eligible Area Dataset](https://opendata.charlottesville.org/datasets/f820db54f19e478bbcccce35916a5caa_41/explore?location=38.040098%2C-78.490850%2C12.86)
+
+### 3. **NASA Meteorite Landings Dataset**
+   - **Description**: This dataset includes information on meteorite landings worldwide, made available by NASA.
+   - **Link**: [NASA Meteorite Landings Dataset](https://data.nasa.gov/api/views/gh4g-9sfh/rows.json?accessType=DOWNLOAD)
+
+### 4. **Airports Dataset**
+   - **Description**: A dataset containing information on airports across various locations.
+   - **Link**: [Airports Dataset](https://catalog.data.gov/dataset/airports-5e97a)
+
+### 5. **Popular Baby Names Dataset**
+   - **Description**: This dataset contains information on the most popular baby names over the years.
+   - **Link**: [Popular Baby Names Dataset](https://catalog.data.gov/dataset/popular-baby-names)
+
+
